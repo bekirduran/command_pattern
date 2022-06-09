@@ -3,3 +3,6 @@
 
 ### Command objects serve as links between various GUI and business logic objects. the GUI object doesn’t need to know what business logic object will receive the request and how it’ll be processed. The GUI object just triggers the command, which handles all the details.
 
+### Command Abstraction Class is
+<img src=/command_pattern/ScreenShots/ss6.png/ss6.PNG width="600" height="250" >
+
